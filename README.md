@@ -17,22 +17,22 @@ I'm a software developer whose primary focus areas include mobile development, b
 
 ### TC; SC (Talk is Cheap; Show me the Code)
 
-- [Network Manager for Dart Projects][repo_flutter_network_manager]  
+- [flutter_network_layer][repo_flutter_network_layer]  
   Manage network requests efficiently in Dart/Flutter projects.
 
-- [Helper for Test HTTP Request][repo_http_test_server]  
+- [http_test_server][repo_http_test_server]  
   Simulate HTTP requests to testing API requests.
 
-- [Chess Application Communicates over Socket][repo_flutter_chess_app]  
+- [flutter_chess_app][repo_flutter_chess_app]  
   Play chess over sockets with real-time communication.
 
-- [Template for Deploying a Personal Website][repo_personal_website]  
+- [personal-website][repo_personal_website]  
   Kickstart your personal website deployment with ease.
 
 ---
 
 [personal_website]: https://femrek.me
-[repo_flutter_network_manager]: https://github.com/femrek/flutter_network_manager
+[repo_flutter_network_layer]: https://github.com/femrek/flutter_network_layer
 [repo_http_test_server]: https://github.com/femrek/http_test_server
 [repo_flutter_chess_app]: https://github.com/femrek/flutter_chess_app
-[repo_personal_website]: https://github.com/femrek/personal_website
+[repo_personal_website]: https://github.com/femrek/personal-website
