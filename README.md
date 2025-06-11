@@ -15,6 +15,12 @@ I'm a software developer whose primary focus areas include mobile development, b
 
 ---
 
+![femrek's Stats](https://githubstats.femrek.me/?username=femrek&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
+
+<sup>by https://github.com/anuraghazra/github-readme-stats</sup>
+
+---
+
 ### TC; SC (Talk is Cheap; Show me the Code)
 
 - [flutter_network_layer][repo_flutter_network_layer]  
