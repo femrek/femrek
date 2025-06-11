@@ -2,8 +2,8 @@
 
 I'm a software developer whose primary focus areas include mobile development, backend systems, and the open-source ecosystem.
 
-- 🌍 Living in **Bolu, Türkiye**
-- 🌐 [**My Website**][personal_website]
+- Living in **Bolu, Türkiye**
+- [**My Website**][personal_website]
 - **Working on:**
   - Flutter/Dart
   - React
