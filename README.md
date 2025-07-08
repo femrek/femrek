@@ -15,6 +15,12 @@ I'm a software developer whose primary focus areas include mobile development, b
 
 ---
 
+[![views](https://request-tracker.femrek.me/api/subscriptions/request/badge/e398f913-d82f-4281-9d7a-348bdd824cad?label=Profile%20Views)](https://github.com/femrek)
+
+<sup>View counter by https://request-tracker.femrek.me</sup>
+
+---
+
 ![femrek's Stats](https://githubstats.femrek.me/?username=femrek&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
 ![femrek's Most used languages](https://githubstats.femrek.me/top-langs/?username=femrek&theme=vue-dark&show_icons=true&hide_border=true&count_private=true&layout=donut)
 
