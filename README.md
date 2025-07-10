@@ -21,14 +21,17 @@ I'm a software developer whose primary focus areas include mobile development, b
 
 ---
 
-![femrek's Stats](https://githubstats.femrek.me/?username=femrek&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
-![femrek's Most used languages](https://githubstats.femrek.me/top-langs/?username=femrek&theme=vue-dark&show_icons=true&hide_border=true&count_private=true&layout=donut)
+[![femrek's Stats](https://githubstats.femrek.me/?username=femrek&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)](https://githubstats.femrek.me/?username=femrek&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
+[![femrek's Most used languages](https://githubstats.femrek.me/top-langs/?username=femrek&theme=vue-dark&show_icons=true&hide_border=true&count_private=true&layout=donut)](https://githubstats.femrek.me/top-langs/?username=femrek&theme=vue-dark&show_icons=true&hide_border=true&count_private=true&layout=donut)
 
 <sup>by https://github.com/anuraghazra/github-readme-stats</sup>
 
 ---
 
 ### TC; SC (Talk is Cheap; Show me the Code)
+
+- [request-tracker][repo_request_tracker]  
+  Generate dynamic view counters and badge links to track requests in real time.
 
 - [flutter_network_layer][repo_flutter_network_layer]  
   Manage network requests efficiently in Dart/Flutter projects.
@@ -42,9 +45,8 @@ I'm a software developer whose primary focus areas include mobile development, b
 - [personal-website][repo_personal_website]  
   Kickstart your personal website deployment with ease.
 
----
-
 [personal_website]: https://femrek.me
+[repo_request_tracker]: https://github.com/femrek/request-tracker
 [repo_flutter_network_layer]: https://github.com/femrek/flutter_network_layer
 [repo_http_test_server]: https://github.com/femrek/http_test_server
 [repo_flutter_chess_app]: https://github.com/femrek/flutter_chess_app
