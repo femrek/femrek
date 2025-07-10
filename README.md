@@ -24,7 +24,7 @@ I'm a software developer whose primary focus areas include mobile development, b
 [![femrek's Stats](https://githubstats.femrek.me/?username=femrek&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)](https://githubstats.femrek.me/?username=femrek&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
 [![femrek's Most used languages](https://githubstats.femrek.me/top-langs/?username=femrek&theme=vue-dark&show_icons=true&hide_border=true&count_private=true&layout=donut)](https://githubstats.femrek.me/top-langs/?username=femrek&theme=vue-dark&show_icons=true&hide_border=true&count_private=true&layout=donut)
 
-<sup>by https://github.com/anuraghazra/github-readme-stats</sup>
+<sup>Stats by https://github.com/anuraghazra/github-readme-stats</sup>
 
 ---
 
