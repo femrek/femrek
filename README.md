@@ -6,12 +6,8 @@ I'm a software developer whose primary focus areas include mobile development, b
 - [**My Website**][personal_website]
 - **Working on:**
   - Flutter/Dart
-  - React
   - Java Spring
-- **Interested in:**
-  - Software Development
-  - FOSS (Free and Open Source Software)
-  - GNU/Linux
+  - React
 
 ---
 
