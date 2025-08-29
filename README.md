@@ -29,22 +29,17 @@ I'm a software developer whose primary focus areas include mobile development, b
 
 ---
 
-### TC; SC (Talk is Cheap; Show me the Code)
+### Featured Repositories
 
-- [request-tracker][repo_request_tracker]  
-  Generate dynamic view counters and badge links to track requests in real time.
+| Repository | Description |
+|------------|-------------|
+| [request-tracker](repo_request_tracker) | Generate dynamic view counters and badge links to track requests in real time. |
+| [flutter_network_layer](repo_flutter_network_layer) | Manage network requests efficiently in Dart/Flutter projects. |
+| [http_test_server](repo_http_test_server) | Simulate HTTP requests to testing API requests. |
+| [flutter_chess_app](repo_flutter_chess_app) | Play chess over sockets with real-time communication. |
+| [personal-website](repo_personal_website) | Kickstart your personal website deployment with ease. |
 
-- [flutter_network_layer][repo_flutter_network_layer]  
-  Manage network requests efficiently in Dart/Flutter projects.
 
-- [http_test_server][repo_http_test_server]  
-  Simulate HTTP requests to testing API requests.
-
-- [flutter_chess_app][repo_flutter_chess_app]  
-  Play chess over sockets with real-time communication.
-
-- [personal-website][repo_personal_website]  
-  Kickstart your personal website deployment with ease.
 
 [personal_website]: https://femrek.me
 [repo_request_tracker]: https://github.com/femrek/request-tracker
