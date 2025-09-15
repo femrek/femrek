@@ -28,11 +28,11 @@ I'm a software developer whose primary focus areas include mobile development, b
 
 | Repository | Description |
 |------------|-------------|
-| [request-tracker](repo_request_tracker) | Generate dynamic view counters and badge links to track requests in real time. |
-| [flutter_network_layer](repo_flutter_network_layer) | Manage network requests efficiently in Dart/Flutter projects. |
-| [http_test_server](repo_http_test_server) | Simulate HTTP requests to testing API requests. |
-| [flutter_chess_app](repo_flutter_chess_app) | Play chess over sockets with real-time communication. |
-| [personal-website](repo_personal_website) | Kickstart your personal website deployment with ease. |
+| [request-tracker][repo_request_tracker] | Generate dynamic view counters and badge links to track requests in real time. |
+| [flutter_network_layer][repo_flutter_network_layer] | Manage network requests efficiently in Dart/Flutter projects. |
+| [http_test_server][repo_http_test_server] | Simulate HTTP requests to testing API requests. |
+| [flutter_chess_app][repo_flutter_chess_app] | Play chess over sockets with real-time communication. |
+| [personal-website][repo_personal_website] | Kickstart your personal website deployment with ease. |
 
 
 
