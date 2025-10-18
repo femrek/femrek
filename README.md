@@ -1,7 +1,3 @@
-### About Me
-
-I'm a software developer whose primary focus areas include mobile development, backend systems, and the open-source ecosystem.
-
 - Living in **Bolu, Türkiye**
 - [**My Website**][personal_website]
 - **Working on:**
@@ -28,11 +24,11 @@ I'm a software developer whose primary focus areas include mobile development, b
 
 | Repository | Description |
 |------------|-------------|
-| [request-tracker][repo_request_tracker] | Generate dynamic view counters and badge links to track requests in real time. |
+| [flutter_chess_app][repo_flutter_chess_app] | Play chess over sockets with real-time communication. |
 | [flutter_network_layer][repo_flutter_network_layer] | Manage network requests efficiently in Dart/Flutter projects. |
 | [http_test_server][repo_http_test_server] | Simulate HTTP requests to testing API requests. |
-| [flutter_chess_app][repo_flutter_chess_app] | Play chess over sockets with real-time communication. |
 | [personal-website][repo_personal_website] | Kickstart your personal website deployment with ease. |
+| [intellij-pubdev-package-versions][repo_intellij_pubdev_package_versions] | Suggests dependency versions from pub.dev for Dart and Flutter projects. |
 
 
 
@@ -42,3 +38,4 @@ I'm a software developer whose primary focus areas include mobile development, b
 [repo_http_test_server]: https://github.com/femrek/http_test_server
 [repo_flutter_chess_app]: https://github.com/femrek/flutter_chess_app
 [repo_personal_website]: https://github.com/femrek/personal-website
+[repo_intellij_pubdev_package_versions]: https://github.com/femrek/intellij-pubdev-package-versions
