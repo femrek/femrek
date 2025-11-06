@@ -7,13 +7,13 @@
 
 ---
 
-[![views](https://request-tracker.femrek.me/api/subscriptions/request/badge/e398f913-d82f-4281-9d7a-348bdd824cad?label=Profile%20Views)](https://github.com/femrek)
+[![views](https://request-tracker.femrek.dev/api/subscriptions/request/badge/e398f913-d82f-4281-9d7a-348bdd824cad?label=Profile%20Views)](https://github.com/femrek)
 
-<sup>View counter by https://request-tracker.femrek.me</sup>
+<sup>View counter by https://request-tracker.femrek.dev</sup>
 
 ---
 
-| [![femrek's Stats](https://githubstats.femrek.me/?username=femrek&show_icons=true&hide_border=true&count_private=true&cache_seconds=3600&theme=react&bg_color=0000)](https://githubstats.femrek.me/?username=femrek&show_icons=true&hide_border=true&count_private=true&cache_seconds=3600&theme=react&bg_color=0000) | [![femrek's Most used languages](https://githubstats.femrek.me/top-langs/?username=femrek&show_icons=true&hide_border=true&count_private=true&layout=donut&cache_seconds=3600&hide=cmake&langs_count=8&theme=react&bg_color=0000)](https://githubstats.femrek.me/top-langs/?username=femrek&show_icons=true&hide_border=true&count_private=true&layout=donut&cache_seconds=3600&hide=cmake&langs_count=8&theme=react&bg_color=0000) |
+| [![femrek's Stats](https://githubstats.femrek.dev/?username=femrek&show_icons=true&hide_border=true&count_private=true&cache_seconds=3600&theme=react&bg_color=0000)](https://githubstats.femrek.dev/?username=femrek&show_icons=true&hide_border=true&count_private=true&cache_seconds=3600&theme=react&bg_color=0000) | [![femrek's Most used languages](https://githubstats.femrek.dev/top-langs/?username=femrek&show_icons=true&hide_border=true&count_private=true&layout=donut&cache_seconds=3600&hide=cmake&langs_count=8&theme=react&bg_color=0000)](https://githubstats.femrek.dev/top-langs/?username=femrek&show_icons=true&hide_border=true&count_private=true&layout=donut&cache_seconds=3600&hide=cmake&langs_count=8&theme=react&bg_color=0000) |
 |-|-|
 
 <sup>Stats by https://github.com/anuraghazra/github-readme-stats</sup>
@@ -32,7 +32,7 @@
 
 
 
-[personal_website]: https://femrek.me
+[personal_website]: https://femrek.dev
 [repo_request_tracker]: https://github.com/femrek/request-tracker
 [repo_flutter_network_layer]: https://github.com/femrek/flutter_network_layer
 [repo_http_test_server]: https://github.com/femrek/http_test_server
