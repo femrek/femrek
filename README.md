@@ -13,7 +13,7 @@
 
 ---
 
-| [![femrek's Stats](https://githubstats.femrek.dev/?username=femrek&show_icons=true&hide_border=true&count_private=true&cache_seconds=3600&theme=react&bg_color=0000)](https://githubstats.femrek.dev/?username=femrek&show_icons=true&hide_border=true&count_private=true&cache_seconds=3600&theme=react&bg_color=0000) | [![femrek's Most used languages](https://githubstats.femrek.dev/top-langs/?username=femrek&show_icons=true&hide_border=true&count_private=true&layout=donut&cache_seconds=3600&hide=cmake&langs_count=8&theme=react&bg_color=0000)](https://githubstats.femrek.dev/top-langs/?username=femrek&show_icons=true&hide_border=true&count_private=true&layout=donut&cache_seconds=3600&hide=cmake&langs_count=8&theme=react&bg_color=0000) |
+| [![femrek's Stats](https://githubstats.femrek.dev/?username=femrek&show_icons=true&hide_border=true&count_private=true&cache_seconds=3600&theme=react&bg_color=0000)](https://githubstats.femrek.dev/?username=femrek&show_icons=true&hide_border=true&count_private=true&cache_seconds=3600&theme=react&bg_color=0000) | [![femrek's Most used languages](https://githubstats.femrek.dev/top-langs/?username=femrek&show_icons=true&hide_border=true&count_private=true&layout=donut&cache_seconds=3600&hide=cmake,c%2B%2B&langs_count=8&theme=react&bg_color=0000)](https://githubstats.femrek.dev/top-langs/?username=femrek&show_icons=true&hide_border=true&count_private=true&layout=donut&cache_seconds=3600&hide=cmake,c%2B%2B&langs_count=8&theme=react&bg_color=0000) |
 |-|-|
 
 <sup>Stats by https://github.com/anuraghazra/github-readme-stats</sup>
